@@ -4,6 +4,7 @@
 - [HTML Lesson](https://github.com/onboarddevs/m1_html_fundamentals)
 - [CSS Lesson](https://github.com/onboarddevs/m1_css_fundamentals)
 - [JavaScript Lesson](https://github.com/onboarddevs/m1_javascript_fundamentals)
+- [API Lesson](https://github.com/onboarddevs/m1_api)
 - [Deployment(Surge) Lesson](https://github.com/onboarddevs/m1_deployment_surge)
 
 ### Module 2 - Front-End Development
