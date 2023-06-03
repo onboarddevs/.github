@@ -9,6 +9,7 @@
 
 ### Module 2 - Front-End Development
 - [Intro to React](https://github.com/onboarddevs/m2_intro_to_react)
+- [React Router - Pt.1](https://github.com/onboarddevs/m2_react_router_pt1)
 
 ### Module 3 - Back-End Development
 
