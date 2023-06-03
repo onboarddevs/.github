@@ -11,6 +11,7 @@
 - [Intro to React](https://github.com/onboarddevs/m2_intro_to_react)
 - [React Router - Pt.1](https://github.com/onboarddevs/m2_react_router_p1)
 - [React - Mapping Components](https://github.com/onboarddevs/m2_react_mapping_components)
+- [React Hooks - useState](https://github.com/onboarddevs/m2_react_hooks_useState)
 
 ### Module 3 - Back-End Development
 
