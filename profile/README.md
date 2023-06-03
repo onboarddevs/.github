@@ -8,6 +8,7 @@
 - [Deployment(Surge) Lesson](https://github.com/onboarddevs/m1_deployment_surge)
 
 ### Module 2 - Front-End Development
+- [Intro to React](https://github.com/onboarddevs/m2_intro_to_react)
 
 ### Module 3 - Back-End Development
 
