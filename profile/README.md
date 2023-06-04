@@ -1,22 +1,6 @@
 # 👋   Welcome to 🎉 {onboard} 🎉
 
-### Module 1 - Web Development 
-- [HTML Lesson](https://github.com/onboarddevs/m1_html_fundamentals)
-- [CSS Lesson](https://github.com/onboarddevs/m1_css_fundamentals)
-- [JavaScript Lesson](https://github.com/onboarddevs/m1_javascript_fundamentals)
-- [API Lesson](https://github.com/onboarddevs/m1_api)
-- [Deployment(Surge) Lesson](https://github.com/onboarddevs/m1_deployment_surge)
-
-### Module 2 - Front-End Development
-- [Intro to React](https://github.com/onboarddevs/m2_intro_to_react)
-- [React Router - Pt.1](https://github.com/onboarddevs/m2_react_router_p1)
-- [React - Mapping Components](https://github.com/onboarddevs/m2_react_mapping_components)
-- [React Hooks - useState](https://github.com/onboarddevs/m2_react_hooks_useState)
-
-### Module 3 - Back-End Development
-
-### Module 4 - Full-Stack Development
-
+More Into Comming Soon!
 
 <!--
 
