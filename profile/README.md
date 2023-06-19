@@ -1,8 +1,6 @@
 # 👋   Welcome to 🎉 {onboard} 🎉
 
-### More Information Comming Soon
-
-Please visit our [website](https://onboard-prod.up.railway.app/onboardHome) to learn more 
+### More Information Coming Soon
 
 <!--
 
